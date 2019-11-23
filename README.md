@@ -1,0 +1,2 @@
+# gitfetch
+Alternative for githack.
